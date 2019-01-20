@@ -1,0 +1,92 @@
+---
+---
+
+@import "minima";
+
+// MRC: styling for the staff page photos as "figures"
+
+figure {
+    display: inline-block;
+    margin: 40px; 
+}
+figure img {
+    vertical-align: top;
+}
+figure figcaption {
+    width: 200px;
+}
+
+// MRC: customize some of minima's styling to be a little more colorful
+
+body {
+  color: #606c71;
+}
+
+.site-header {
+  background-color: #96C8A2;
+}
+
+.page-content {
+  word-wrap: break-word;
+
+  :first-child {
+    margin-top: 0;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: #159957;
+  }
+
+  p {
+    margin-bottom: 1em;
+  }
+}
+
+// end making minima more colorful
+
+// MRC (1/11/18): the following code for table styling is taken from the Minima theme 
+// development repo.  After the next release of minima, we should be able to delete it.
+
+$table-text-align: left !default;
+
+/**
+ * Tables
+ */
+table {
+  margin-bottom: $spacing-unit;
+  width: 100%;
+  text-align: $table-text-align;
+  color: lighten($text-color, 18%);
+  border-collapse: collapse;
+  border: 1px solid $grey-color-light;
+  tr {
+    &:nth-child(even) {
+      background-color: lighten($grey-color-light, 6%);
+    }
+  }
+  th, td {
+    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+  }
+  th {
+    background-color: lighten($grey-color-light, 3%);
+    border: 1px solid darken($grey-color-light, 4%);
+    border-bottom-color: darken($grey-color-light, 12%);
+  }
+  td {
+    border: 1px solid $grey-color-light;
+    vertical-align: top;
+  }
+  .unit {
+  	background-color:#96C8A2;
+  }
+}
+
+// end table theming

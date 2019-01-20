@@ -1,0 +1,243 @@
+- type: unit
+  name: Introduction
+
+- topic: Introduction
+  num: "01"
+  reading: "[1](textbook/chapters/01/what-is-data-science.html)"
+  assignment: lab01
+
+- topic: Cause and Effect
+  num: "02"
+  no_demo: True  
+  reading: "[2](textbook/chapters/02/causality-and-experiments.html)"
+  assignment: hw01
+
+- type: unit
+  name: Data, Tables, and Graphs in Python
+
+- topic: Tables
+  num: "03"
+  reading: "[5.0](textbook/chapters/05/tables.html)"
+  assignment:
+
+- topic: Data Types
+  num: "04"
+  reading: "[3](textbook/chapters/03/programming-in-python.html), [4](textbook/chapters/04/data-types.html)"
+  assignment: 
+
+- topic: Columns and Rows
+  num: "05"
+  reading: "[5.1](textbook/chapters/05/1/sorting-rows.html), [5.2](textbook/chapters/05/2/selecting-rows.html)"
+  assignment: 
+
+- topic: Census
+  num: "06"
+  reading: "[5.3](textbook/chapters/05/3/example-trends-in-the-population-of-the-united-states.html), [5.4](textbook/chapters/05/4/example-gender-ratio-in-the-us-population.html)"
+  assignment:
+
+- topic: Charts
+  num: "07"
+  reading: "[6.0](textbook/chapters/06/visualization.html), [6.1](textbook/chapters/06/1/visualizing-categorical-distributions.html)"
+  assignment: 
+
+- topic: Histograms
+  num: "08"
+  reading: "[6.2](textbook/chapters/06/2/visualizing-numerical-distributions.html), [6.3](textbook/chapters/06/3/overlaid-graphs.html)"
+  assignment: 
+
+- topic: Functions
+  num: "09"
+  reading: "[7.0](textbook/chapters/07/functions-and-tables.html), [7.1](textbook/chapters/07/1/applying-a-function-to-a-column.html)"
+  assignment:
+
+- topic: Groups
+  num: "10"
+  reading: "[7.2](textbook/chapters/07/2/classifying-by-one-variable.html), [7.3](textbook/chapters/07/3/cross-classifying-by-more-than-one-variable.html)"
+  assignment: 
+
+- topic: Joins
+  num: "11"
+  reading: "[7.4](textbook/chapters/07/4/joining-tables-by-columns.html), [7.5](textbook/chapters/07/5/bike-sharing-in-the-bay-area.html)"
+  assignment: 
+
+- topic: Table Examples
+  num: "12"
+  reading:
+  assignment: 
+
+- type: unit
+  name: Distributions and Random Sampling
+
+- topic: Control
+  num: "13"
+  reading: "[8.0](textbook/chapters/08/randomness.html), [8.1](textbook/chapters/08/1/conditional-statements.html), [8.2](textbook/chapters/08/2/iteration.html)"
+  assignment:
+
+- topic: Probability
+  num: "14"
+  reading: "[8.3](textbook/chapters/08/3/monty-hall-problem.html), [8.4](textbook/chapters/08/4/finding-probabilities.html)"
+  assignment: 
+
+- topic: Sampling
+  num: "15"
+  reading: "[8.5](textbook/chapters/08/5/sampling.html), [9.0](textbook/chapters/09/empirical-distributions.html), [9.1](textbook/chapters/09/1/sampling_from_a_population.html), [9.2](textbook/chapters/09/2/at-the-roulette-table.html)"
+  assignment: 
+
+- topic: "Prelim 1"
+
+- topic: "TBD"
+  assignment: 
+
+- topic: Estimation
+  num: "16"
+  reading: "[9.3](textbook/chapters/09/3/empirical-distribution-of-a-statistic.html)"
+  assignment:
+
+- topic: Simulation
+  num: "17"
+  reading:
+  assignment: 
+
+- type: unit
+  name: Hypothesis Testing
+
+- topic: Hypothesis Testing
+  num: "19"
+  reading: "[10](textbook/chapters/10/testing-hypotheses.html), [10.1](textbook/chapters/10/1/jury-selection.html), [10.2](textbook/chapters/10/2/terminology-of-testing.html)"
+  assignment: 
+
+- topic: Error Probabilities
+  num: "20"
+  reading: "[10.3](textbook/chapters/10/3/error-probabilities.html)"
+  assignment: 
+
+- topic: Examples
+  num: "21"
+  reading: "[10.4](textbook/chapters/10/4/example-deflategate.html)"
+  assignment: 
+
+- topic: Confidence Intervals
+  num: "22"
+  reading: "[11.0](textbook/chapters/11/estimation.html), [11.1](textbook/chapters/11/1/percentiles.html), [11.2](textbook/chapters/11/2/bootstrap.html)"
+  assignment:
+
+- topic: Interpreting Confidence
+  num: "23"
+  reading: "[11.3](textbook/chapters/11/3/confidence-intervals.html), [11.4](textbook/chapters/11/4/using-confidence-intervals.html)"
+  assignment:
+
+- type: unit
+  name: The Normal Distribution
+
+- topic: Center and Spread
+  num: "24"
+  reading: "[12](textbook/chapters/12/why-the-mean-matters.html), [12.1](textbook/chapters/12/1/properties-of-the-mean.html), [12.2](textbook/chapters/12/2/variability.html)"
+  assignment: 
+
+- topic: The Normal Distribution
+  num: "25"
+  reading: "[12.3](textbook/chapters/12/3/sd-and-the-normal-curve.html), [12.4](textbook/chapters/12/4/central-limit-theorem.html)"
+  assignment: 
+
+- topic: Sample Means
+  num: "26"
+  reading: "[12.5](textbook/chapters/12/5/variability-of-the-sample-mean.html)"
+  assignment: 
+
+- topic: Designing Experiments
+  num: "27"
+  reading: "[12.6](textbook/chapters/12/6/choosing-a-sample-size.html)"
+  assignment: 
+
+- topic: Sample Size Examples
+  num: "28"
+  reading:
+  assignment:
+
+
+- type: unit
+  name: Regression
+
+- topic: Correlation
+  num: "29"
+  reading: "[13](textbook/chapters/13/prediction.html), [13.1](textbook/chapters/13/1/correlation.html)"
+  assignment: 
+
+- topic: "Prelim 2"
+
+- topic: Linear Regression
+  num: "30"
+  reading: "[13.2](textbook/chapters/13/2/regression-line.html)"
+  assignment: 
+
+- topic: Least Squares
+  num: "31"
+  reading: "[13.3](textbook/chapters/13/3/method-of-least-squares.html), [13.4](textbook/chapters/13/4/least-squares-regression.html)"
+  assignment: 
+
+- topic: Residuals
+  num: "32"
+  reading: "[13.5](textbook/chapters/13/5/visual-diagnostics.html), [13.6](textbook/chapters/13/6/numerical-diagnostics.html)"
+  assignment: 
+
+- topic: Regression Inference
+  num: "33"
+  reading: "[14](textbook/chapters/14/inference-for-regression.html)"
+  assignment: 
+
+- type: unit
+  name: Classification
+
+- topic: Classification
+  num: "34"
+  reading: "[15](textbook/chapters/15/classification.html), [15.1](textbook/chapters/15/1/nearest-neighbors.html)"
+  assignment: 
+
+- topic: Nearest Neighbor
+  num: "35"
+  reading: "[15.2](textbook/chapters/15/2/training-and-testing.html), [15.3](textbook/chapters/15/3/rows-of-tables.html), [15.4](textbook/chapters/15/4/implementing-the-classifier.html), [15.5](textbook/chapters/15/5/accuracy-of-the-classifier.html)"
+  assignment: 
+
+- topic: Implementing Nearest Neighbor
+  num: "36"
+  reading: 
+  assignment: 
+
+- topic: Enhancing Nearest Neighbor
+  num: "37"
+  reading: 
+  assignment: 
+  
+- topic: Multiple Regression
+  num: "38"
+  reading: "[15.6](textbook/chapters/15/6/multiple-regression.html)"
+  assignment:
+
+- type: unit
+  name: Applications of Data Science
+
+- num: guest
+  topic:  ""
+  slides: 
+  reading:
+  assignment: 
+
+- num: guest
+  topic: ""
+  slides: 
+  reading:
+  assignment: 
+
+- topic:
+  num: "39"
+  reading:
+  assignment: 
+
+- topic: What Next
+  num: "40"
+  no_demo: True  
+  reading:
+  assignment:
+
+- topic: Final Exam
+
