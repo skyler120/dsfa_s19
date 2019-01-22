@@ -1,0 +1,13 @@
+import csv
+
+roster = 'dsfa_roster_s19.csv'
+dsfa_roster = 'dsfa_roster_vocareum_s19.csv'
+dsfa = ""
+
+with open(roster) as f:
+	csv_reader = csv.reader(f)
+	for email in csv_reader:
+		dsfa+=email+"\n"
+
+with open(dsfa_roster) as g:
+	g.write(dsfa)

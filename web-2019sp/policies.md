@@ -4,7 +4,7 @@ title: Policies
 ---
 
 CS 1380 + ORIE 1380 + STSCI 1380  
-Spring 2018
+Spring 2019
 
 * * *
 
@@ -45,7 +45,7 @@ Your primary point of contact in the course is your recitation TA.
 Please speak with him or her about any issues involving technical support,
 grading, or logistics.
 
-We use [Piazza](http://www.piazza.com/cornell/spring2018/cs1380) for announcements. 
+We use [Piazza](http://www.piazza.com/cornell/spring2019/cs1380) for announcements. 
 You are responsible for reading all announcements and pinned posts made 
 on Piazza.
 
@@ -57,7 +57,7 @@ benefit from your peers.
 
 To encourage collaboration, instructors will allow students to provide
 the (first) answer to a question. Students who demonstrate exceptional
-ability to answer their peers' questions on Piazza will be rewarded for
+ability to answer their peers’ questions on Piazza will be rewarded for
 their mastery of material and dedication to the course by a small bonus
 to their final grade. If the initial student answer seems insufficient,
 begin a follow-up and collaborate to improve the student answer. Posting
@@ -66,8 +66,8 @@ Academic Integrity.
 
 Piazza is best used to ask questions whose answers will be useful to
 many students. If you have questions that are likely to be specific just
-to yourself&mdash;especially if they fall in the category of technical support
-or debugging&mdash;we ask you to take those questions to office hours. But if
+to yourself—especially if they fall in the category of technical support
+or debugging—we ask you to take those questions to office hours. But if
 you can phrase the questions in a way such that they are of broad
 interest, you are likely to find other students thanking you for them
 and answering them quickly.
@@ -267,7 +267,7 @@ Exams will occur at the dates and times published by the Registrar.
 Unless you have accommodations as determined by the university or
 previous permission from the professors, you must take the exams at the
 published dates and times. For exam accommodations, contact the course
-administrator, Amy Elser (ahf42@cornell.edu, 401 Gates Hall).
+administrator, WHO IS THE ADMINISTRATOR???.
 
 If you cannot attend an exam because of health or family crises, or
 similar life events, you may ask the professors for permission to be

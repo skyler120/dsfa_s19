@@ -18,9 +18,9 @@ title: Resources
 * Documentation for [Python][] and the [datascience][] module is available.
   
   
-[Piazza]: https://piazza.com/cornell/spring2018/csoriestsci1380/home
+[Piazza]: https://piazza.com/cornell/spring2019/csoriestsci1380/resources
 [Vocareum]: https://labs.vocareum.com
-[textbook]: textbook/
+[textbook]: http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/?q=
 [iclicker]: http://pollinghelp.cit.cornell.edu/providing-help-for-students/
 [Python]: https://docs.python.org/3/
 [datascience]: http://data8.org/datascience/

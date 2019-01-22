@@ -2,7 +2,7 @@
 
 echo "Reminder: always 'make build' or 'make serve' before deploying."
 
-rsync -rlhcv --delete --exclude textbook _site/ cslinux:/courses/cs1380/2018sp
+rsync -rlhcv --delete --exclude textbook _site/ cslinux:/courses/cs1380/2019sp
 
 if [[ `git status --porcelain` ]]; then 
   cat <<EOF

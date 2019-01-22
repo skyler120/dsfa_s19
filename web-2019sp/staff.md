@@ -12,7 +12,7 @@ All staff are listed in alphabetical order by role.
 <div class="container">
   {% for prof in site.data.profs %}
   <figure>
-    <img src="pics/{{ prof.pic }}" height="200px"/>
+    <img src="pics/{{ prof.pic }}" height="200px" width="200px"/>
     <figcaption>
       <b>{{ prof.name }}</b><br/>
       {{ prof.email }}, {{ prof.office }}<br/>
@@ -29,7 +29,7 @@ All staff are listed in alphabetical order by role.
 <div class="container">
   {% for ta in site.data.phd_tas %}
   <figure>
-    <img src="pics/{{ ta.pic }}" height="200px"/>
+    <img src="pics/{{ ta.pic }}" height="200px"  width="200px"/>
     <figcaption>
       <b>{{ ta.name }}</b><br/>
       {{ ta.netid }}, {{ ta.office }}<br/>
@@ -47,7 +47,7 @@ All staff are listed in alphabetical order by role.
 <div class="container">
   {% for ta in site.data.tas %}
   <figure>
-    <img src="pics/{{ ta.pic }}" height="200px"/>
+    <img src="pics/{{ ta.pic }}" height="200px"  width="200px"/>
     <figcaption>
       <b>{{ ta.name }}</b><br/>
       {{ ta.netid }}<br/>

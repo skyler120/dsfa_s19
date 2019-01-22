@@ -17,7 +17,7 @@ title: Data Science For All
 description: >- # this means to ignore newlines until "baseurl:"
   An introductory course on data science at Cornell University.
   Crosslisted as CS 1380 + ORIE 1380 + STSCI 1380.
-baseurl: "/courses/cs1380/2018sp" # the subpath of your site, e.g. /blog
+baseurl: "/courses/cs1380/2019sp" # the subpath of your site, e.g. /blog
 url: "http://www.cs.cornell.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings

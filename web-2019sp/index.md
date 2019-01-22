@@ -3,7 +3,7 @@
 layout: default
 ---
 
-# CS 1380 + ORIE 1380 + STSCI 1380 <br/> Data Science For All <br/> Spring 2018
+# CS 1380 + ORIE 1380 + STSCI 1380 <br/> Data Science For All <br/> Spring 2019
 
 **Catalog Description:**
 This course provides an introduction to data science. Given data from
@@ -18,20 +18,18 @@ analysis of real-world datasets, including economic data, document
 collections, geographical data, and social networks. We will also
 consider social issues in data analysis such as privacy and design.
 
-**Lecture:** MWF 10:10-11:00 am in Kimball B11, starting January 24, 2018.
+**Lecture:** TR 10:10-11:25 am in Kimball B11, starting January 22, 2019.
 
-**Instructors:** [Michael Clarkson](http://www.cs.cornell.edu/~clarkson/)
-and [Madeleine Udell](https://people.orie.cornell.edu/mru8/)
+**Instructors:** [James Booth](http://faculty.bscb.cornell.edu/~booth/)
+and [Andrew Gordon Wilson](https://people.orie.cornell.edu/andrew/)
 
 {% comment %}
 
 **Recitation:** Please attend the [recitation section](sections.html) in
 which you are enrolled according to Student Center (*not* Scheduler or
-CoursePad). Students who would prefer to use a computer lab machine
-rather than bring their own laptop should register for DIS 207 or 208.
-Your partner for the three course projects must be from your registered
+CoursePad). Your partner for the three course projects must be from your registered
 recitation section, so coordinate your registration accordingly.
-Recitations meet starting January 24, 2018.
+Recitations meet starting January 23, 2018.
 
 {% endcomment %}
 
@@ -119,7 +117,7 @@ The course is organized into three units:
 If you have a question that isn't answered here, please
 [register for the course's Piazza][piazza] and ask your question there.
 
-[piazza]: https://piazza.com/cornell/spring2018/csoriestsci1380
+[piazza]: https://piazza.com/cornell/spring2019/csoriestsci1380
 
 {% endcomment %}
 
