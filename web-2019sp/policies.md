@@ -267,7 +267,7 @@ Exams will occur at the dates and times published by the Registrar.
 Unless you have accommodations as determined by the university or
 previous permission from the professors, you must take the exams at the
 published dates and times. For exam accommodations, contact the course
-administrator, WHO IS THE ADMINISTRATOR???.
+administrator, Beatrix Johnson (bj11@cornell.edu).
 
 If you cannot attend an exam because of health or family crises, or
 similar life events, you may ask the professors for permission to be

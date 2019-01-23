@@ -15,8 +15,8 @@ All staff are listed in alphabetical order by role.
     <img src="pics/{{ prof.pic }}" height="200px" width="200px"/>
     <figcaption>
       <b>{{ prof.name }}</b><br/>
-      {{ prof.email }}, {{ prof.office }}<br/>
-      <i>Ask me about: {{ prof.ama }}</i>
+      {{ prof.email }}<br/>
+	  {{ prof.office }}<br/>
     </figcaption>
   </figure>
   {% endfor %}
