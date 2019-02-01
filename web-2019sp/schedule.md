@@ -29,11 +29,21 @@ download all the notebooks onto your own computer.
 					Reading: {{event.reading}}
 				{% endif %}
 			{% elsif event.num == 'class' %}
-				Lecture: 
-				[Slides](lec/{{event.slides}}.pdf), 
+				{% if event.no_slide %}
+					Lecture: 
+				{% else %}
+					Lecture: 
+					[Slides](lec/{{event.slides}}.pdf), 
+				{% endif %}
 				{% if event.no_demo %}
 				{% else %}
-					[Demo]({{repo}}/lec/{{event.slides}}.ipynb)
+					[Demo]({{repo}}/lec/{{event.demo}}.ipynb),
+				{% endif %}
+				{% if event.no_other_demo == 1 %}
+					[Demo2]({{repo}}/lec/{{event.od1}}.ipynb),
+					[Demo3]({{repo}}/lec/{{event.od2}}.ipynb),
+					[Demo4]({{repo}}/lec/{{event.od3}}.ipynb),
+				{% else %}
 				{% endif %}
 				<br/>
 				{% if event.reading %}

@@ -8,28 +8,37 @@
   assignment: lab01
 
 - topic: Cause and Effect
-  num: "none"
+  num: "class"
   no_demo: True  
+  slides: lec02
   reading: "[2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/02/causality-and-experiments.html)"
-  assignment:
+  assignment: hw01
 
 - type: unit
   name: Data, Tables, and Graphs in Python
 
 - topic: Tables
-  num: "none"
+  num: "class"
   reading: "[5.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/tables.html)"
-  assignment:
+  slides: lec03
+  demo: lec03
+  assignment: lab02
 
 - topic: Data Types
-  num: "none"
+  num: "class"
+  no_slide: True
+  demo: lec04
+  no_other_demo: 1
+  od1: lec04asp19
+  od2: lec04bsp19
+  od3: lec04csp19
   reading: "[3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/03/programming-in-python.html), [4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/04/data-types.html)"
   assignment: 
 
 - topic: Columns and Rows
   num: "none"
   reading: "[5.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/1/sorting-rows.html), [5.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/2/selecting-rows.html)"
-  assignment: 
+  assignment: hw02
 
 - topic: Census
   num: "none"
