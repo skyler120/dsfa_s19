@@ -43,7 +43,7 @@
 - topic: Census
   num: "none"
   reading: "[5.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/3/example-trends-in-the-population-of-the-united-states.html), [5.4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/4/example-gender-ratio-in-the-us-population.html)"
-  assignment:
+  assignment: lab03
 
 - topic: Charts
   num: "none"
