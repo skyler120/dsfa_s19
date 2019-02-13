@@ -24,41 +24,33 @@
   demo: lec03
   assignment: lab02
 
-- topic: Data Types
+- topic: Data Types, Columns and Rows
   num: "class"
-  no_slide: True
+  slides: lec04
   demo: lec04
   no_other_demo: 1
   od1: lec04asp19
   od2: lec04bsp19
   od3: lec04csp19
-  reading: "[3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/03/programming-in-python.html), [4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/04/data-types.html)"
-  assignment: 
-
-- topic: Columns and Rows
-  num: "none"
-  reading: "[5.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/1/sorting-rows.html), [5.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/2/selecting-rows.html)"
+  reading: "[3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/03/programming-in-python.html), [4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/04/data-types.html), [5.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/1/sorting-rows.html), [5.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/2/selecting-rows.html)"
   assignment: hw02
 
-- topic: Census
-  num: "none"
-  reading: "[5.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/3/example-trends-in-the-population-of-the-united-states.html), [5.4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/4/example-gender-ratio-in-the-us-population.html)"
+- topic: Census and Charts
+  num: "class"
+  slides: lec05
+  no_demo: True
+  reading: "[5.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/3/example-trends-in-the-population-of-the-united-states.html), [5.4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/4/example-gender-ratio-in-the-us-population.html), [6.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/visualization.html), [6.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/1/visualizing-categorical-distributions.html)"
   assignment: lab03
-
-- topic: Charts
-  num: "none"
-  reading: "[6.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/visualization.html), [6.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/1/visualizing-categorical-distributions.html)"
-  assignment: 
 
 - topic: Histograms
   num: "none"
   reading: "[6.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/2/visualizing-numerical-distributions.html), [6.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/3/overlaid-graphs.html)"
-  assignment: 
+  assignment: hw03
 
 - topic: Functions
   num: "none"
   reading: "[7.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/functions-and-tables.html), [7.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/1/applying-a-function-to-a-column.html)"
-  assignment:
+  assignment: lab04
 
 - topic: Groups
   num: "none"

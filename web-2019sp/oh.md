@@ -25,12 +25,16 @@ title: Office Hours
   	<td>Rhodes 421</td>
   </tr>
   <tr>
+	<td>Prof. Andrew Wilson</td>
+	<td> Tuesday 2:00-3:00pm</td>
+	<td>Rhodes 235</td>
+  <tr>
 	<td>Prof. Jim Booth</td>
 	<td>Tuesday 4:00-5:00pm</td>
 	<td> Comstock 1181</td>
   <tr>
   	<td>Antonio</td>
-  	<td>Wednesday 10:00-12:00am</td>
+  	<td>Wednesday 10:00am-12:00pm</td>
   	<td>Rhodes 421</td>
   </tr>
   <tr>
