@@ -39,7 +39,7 @@ title: Office Hours
   </tr>
   <tr>
   	<td>Polina</td>
-  	<td>Friday 2:00-4:00pm</td>
+  	<td>Friday 2:30-4:30pm</td>
   	<td>Rhodes 421</td>
   </tr>
   <tr>
