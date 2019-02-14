@@ -28,7 +28,7 @@
   num: "class"
   slides: lec04
   demo: lec04
-  no_other_demo: 1
+  no_other_demo: 3
   od1: lec04asp19
   od2: lec04bsp19
   od3: lec04csp19
@@ -38,17 +38,25 @@
 - topic: Census and Charts
   num: "class"
   slides: lec05
-  no_demo: True
+  demo: lec05-part1
+  no_other_demo: 1
+  od1: lec05-part2
   reading: "[5.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/3/example-trends-in-the-population-of-the-united-states.html), [5.4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/05/4/example-gender-ratio-in-the-us-population.html), [6.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/visualization.html), [6.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/1/visualizing-categorical-distributions.html)"
   assignment: lab03
 
 - topic: Histograms
-  num: "none"
+  num: "class"
+  slides: lec06
+  no_demo: True
   reading: "[6.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/2/visualizing-numerical-distributions.html), [6.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/06/3/overlaid-graphs.html)"
   assignment: hw03
 
 - topic: Functions
-  num: "none"
+  num: "class"
+  slides: lec07
+  demo: lec07p1
+  no_other_demo: 1
+  od1: lec07p2
   reading: "[7.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/functions-and-tables.html), [7.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/1/applying-a-function-to-a-column.html)"
   assignment: lab04
 

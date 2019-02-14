@@ -40,6 +40,10 @@ download all the notebooks onto your own computer.
 					[Demo]({{repo}}/lec/{{event.demo}}.ipynb),
 				{% endif %}
 				{% if event.no_other_demo == 1 %}
+					[Demo2]({{repo}}/lec/{{event.od1}}.ipynb)
+				{% else %}
+				{% endif %}
+				{% if event.no_other_demo == 3 %}
 					[Demo2]({{repo}}/lec/{{event.od1}}.ipynb),
 					[Demo3]({{repo}}/lec/{{event.od2}}.ipynb),
 					[Demo4]({{repo}}/lec/{{event.od3}}.ipynb),
