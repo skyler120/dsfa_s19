@@ -95,7 +95,7 @@
   reading: "[8.5](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/08/5/sampling.html), [9.0](textbook/chapters/09/empirical-distributions.html), [9.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/09/1/sampling_from_a_population.html), [9.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/09/2/at-the-roulette-table.html)"
   assignment: 
 
-- topic: "Prelim 1"
+- topic: "Prelim 1 - 02/28/2019"
 
 - topic: Estimation
   num: "none"
@@ -172,7 +172,7 @@
   reading: "[13](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/13/prediction.html), [13.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/13/1/correlation.html)"
   assignment: 
 
-- topic: "Prelim 2"
+- topic: "Prelim 2 - 04/9/2019"
 
 - topic: Linear Regression
   num: "none"
@@ -231,5 +231,5 @@
   reading:
   assignment:
 
-- topic: Final Exam
+- topic: Final Exam - 05/13/2019
 
