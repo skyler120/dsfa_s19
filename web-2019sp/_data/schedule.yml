@@ -70,7 +70,7 @@
 - topic: Groups
   num: "none"
   reading: "[7.4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/4/joining-tables-by-columns.html), [7.5](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/5/bike-sharing-in-the-bay-area.html)"
-  assignment: 
+  assignment: proj1 
 
 - topic: Table Examples
   num: "none"
