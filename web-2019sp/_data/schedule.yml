@@ -57,15 +57,17 @@
   demo: lec07p1
   no_other_demo: 1
   od1: lec07p2
-  reading: "[7.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/functions-and-tables.html), [7.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/1/applying-a-function-to-a-column.html)"
+  reading: "[7.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/functions-and-tables.html)"
   assignment: lab04
 
-- topic: Groups
-  num: "none"
-  reading: "[7.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/2/classifying-by-one-variable.html), [7.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/3/cross-classifying-by-more-than-one-variable.html)"
+- topic: Functions and Apply
+  num: "class"
+  slides: lec08
+  demo: lec08
+  reading: "[7.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/1/applying-a-function-to-a-column.html), [7.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/2/classifying-by-one-variable.html), [7.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/3/cross-classifying-by-more-than-one-variable.html)"
   assignment: 
 
-- topic: Joins
+- topic: Groups
   num: "none"
   reading: "[7.4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/4/joining-tables-by-columns.html), [7.5](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/07/5/bike-sharing-in-the-bay-area.html)"
   assignment: 
