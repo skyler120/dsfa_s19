@@ -84,31 +84,39 @@
   no_other_demo: 1
   od1: lec10p2-2019
   assignment: 
+  
+- topic: "Prelim 1 - 02/28/2019"
+
 
 - type: unit
   name: Distributions and Random Sampling
 
 - topic: Control
-  num: "none"
+  num: "class"
+  no_demo: True  
   reading: "[8.0](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/08/randomness.html), [8.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/08/1/conditional-statements.html), [8.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/08/2/iteration.html)"
+  slides: lec11
   assignment: lab05
 
 - topic: Probability
-  num: "none"
+  num: "class"
   reading: "[8.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/08/3/monty-hall-problem.html), [8.4](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/08/4/finding-probabilities.html)"
-  assignment: 
+  slides: lec12
+  demo: lec12
+  no_other_demo: 1
+  od1: lec12a
+  assignment: hw04
 
 - topic: Sampling
   num: "none"
   reading: "[8.5](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/08/5/sampling.html), [9.0](textbook/chapters/09/empirical-distributions.html), [9.1](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/09/1/sampling_from_a_population.html), [9.2](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/09/2/at-the-roulette-table.html)"
   assignment: 
 
-- topic: "Prelim 1 - 02/28/2019"
 
 - topic: Estimation
   num: "none"
   reading: "[9.3](http://www.cs.cornell.edu/courses/cs1380/2018sp/textbook/chapters/09/3/empirical-distribution-of-a-statistic.html)"
-  assignment:
+  assignment: lab06
 
 - topic: Simulation
   num: "none"
