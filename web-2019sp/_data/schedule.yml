@@ -121,7 +121,7 @@
 - topic: Simulation
   num: "none"
   reading:
-  assignment: 
+  assignment: hw05 
 
 - type: unit
   name: Hypothesis Testing
